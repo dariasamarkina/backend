@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "author": "Victor Hugo",
+        "name": "The Hunchback of Notre-Dame"
+    },
+    
+    {
+        "id": 2,
+        "author": "Agatha Christie",
+        "name": "Murder on the Orient Express"
+    },
+
+    {
+        "id": 3,
+        "author": "William Shakespeare",
+        "name": "Sonnets"
+    },
+
+    {
+        "id": 4,
+        "author": "Fyodor Dostoevsky",
+        "name": "The Brothers Karamazov"
+    }
+]
